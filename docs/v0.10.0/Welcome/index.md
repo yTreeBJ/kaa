@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: 欢迎
 permalink: /:path/
 sort_idx: 5
 ---
@@ -10,7 +10,7 @@ sort_idx: 5
 * TOC
 {:toc}
 
-Welcome to the Kaa IoT platform documentation!
+欢迎阅读Kaa物联网平台文档!
 
 Kaa is a highly flexible, multi-purpose, 100% open-source middleware platform for implementing complete end-to-end IoT solutions, connected applications, and smart products.
 For a quick start, Kaa offers a set of out-of-the-box enterprise-grade IoT features that can be easily plugged in and used to implement a large majority of the IoT use cases.
